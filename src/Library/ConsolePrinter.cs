@@ -11,7 +11,7 @@ namespace Full_GRASP_And_SOLID.Library
     {
         public void Print(string stringToPrint)
         {
-            Console.WriteLine(stringToPrint);
+            Console.Write(stringToPrint);
         }
     }
 }
